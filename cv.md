@@ -1,6 +1,5 @@
 # Rinat Farkheev 
 _Front-End Developer_
-___
 <br/>
 <br/>
 
