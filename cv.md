@@ -5,9 +5,9 @@ ___
 <br/>
 
 ## Contacts
-__City:__ Chelyabinsk, Russia
-__Email:__ [frinat040585@gmail.com](mailto:frinat040585@gmail.com)
-__Phone:__ [+7(900)076-18-02](tel:+79000761802)
+__City:__ Chelyabinsk, Russia<br/>
+__Email:__ [frinat040585@gmail.com](mailto:frinat040585@gmail.com)<br/>
+__Phone:__ [+7(900)076-18-02](tel:+79000761802)<br/>
 __Telegram:__ [@FarkheevRinat](https://t.me/FarkheevRinat)
 <br/>
 
